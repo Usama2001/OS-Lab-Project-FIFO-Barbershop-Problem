@@ -1,0 +1,2 @@
+# OS-Lab-Project-FIFO-Barbershop-Problem
+ The FIFO Barbershop Simulation Project shows how to use Python to create a barbershop in several threads. Customers are permitted to enter a waiting area with a limited number of chairs and receive services from a single barber under the program's First-In-First-Out (FIFO) policy. The synchronized interactions between customers and the barber are ensured using semaphores and queues, offering a practical demonstration of concurrent programming ideas.
